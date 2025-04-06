@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Christiano Dias Ferraz
 
-<!--
-**ChristianoFerraz/ChristianoFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo **Christiano Dias Ferraz**, tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **terceiro semestre**.
 
-Here are some ideas to get you started:
+📍 Moro em **Pelotas - RS**  
+🚀 Apaixonado por tecnologia e com **muita vontade de aprender**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre mim
+
+Sou uma pessoa curiosa, dedicada e estou constantemente buscando evoluir como desenvolvedor. Já tive contato com diversas tecnologias e estou sempre estudando para me tornar um profissional completo e atualizado.
+
+---
+
+## 🧠 Conhecimentos
+
+- **HTML & CSS** – Estrutura e estilização de páginas web  
+- **Lógica de Programação** – Pensamento computacional e resolução de problemas  
+- **JavaScript**  
+- **TypeScript (Básico)** – Tipagem estática e boas práticas  
+- **React (Básico)** – Componentização e criação de interfaces interativas  
+- **Banco de Dados** – Modelagem, consultas SQL e conceitos relacionais
+
+---
+
+## 📈 Em constante aprendizado...
+
+Meu objetivo é me tornar um desenvolvedor fullstack, entender tanto o front quanto o back-end, criar projetos reais e contribuir com a comunidade de tecnologia.
+
+---
